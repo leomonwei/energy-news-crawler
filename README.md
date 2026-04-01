@@ -103,7 +103,7 @@
 
 ## 致谢
 
-- 感谢所有开源库的贡献者，感谢https://github.com/wechat-article/wechat-article-exporter项目提供的微信公众号接口
+- 感谢所有开源库的贡献者，感谢wechat-article-exporter项目提供的微信公众号接口
 - 感谢阿里云提供的 Qwen 大模型服务
 - 感谢各能源行业网站提供的优质内容
 
