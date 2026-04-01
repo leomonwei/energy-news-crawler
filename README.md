@@ -286,7 +286,7 @@ web_crawler/
 
 ### 添加新的微信公众号
 
-1. **编辑微信公众号列表**：打开 `we_chat_official_account.json` 文件
+1. **编辑微信公众号列表**：打开 `wechat_official_account.json` 文件
 2. **添加新的公众号**：在 `accounts` 数组中添加新的公众号信息，包含 `fakeid` 和 `nickname` 字段
 
 ```json
