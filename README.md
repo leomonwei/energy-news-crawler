@@ -51,7 +51,7 @@
 
 ### 1. 微信公众号 API 如何获取 auth-key？
 
-微信公众号 API 的 auth-key 需要通过第三方服务获取，具体获取方式请参考相关服务提供商的文档。
+微信公众号 API 的 auth-key 需要通过第三方服务获取，具体获取方式请参考[wechat-article-exporter](https://docs.mptext.top/)的文档。
 
 ### 2. 为什么部分网站抓取失败？
 
@@ -103,7 +103,7 @@
 
 ## 致谢
 
-- 感谢所有开源库的贡献者
+- 感谢所有开源库的贡献者，感谢https://github.com/wechat-article/wechat-article-exporter项目提供的微信公众号接口
 - 感谢阿里云提供的 Qwen 大模型服务
 - 感谢各能源行业网站提供的优质内容
 
