@@ -1,0 +1,69 @@
+{
+    "version": "1.0",
+    "accounts": [
+        {
+            "fakeid": "MzA3MzcyMjcwNQ==",
+            "nickname": "能源日参"
+        },
+        {
+            "fakeid": "MzkzMTYwNjczMg==",
+            "nickname": "中国能源观察"
+        },
+        {
+            "fakeid": "MzIyNDM4MDgyNA==",
+            "nickname": "双碳情报"
+        },
+        {
+            "fakeid": "Mzk0NzU5NTc2MA==",
+            "nickname": "四新集团"
+        },
+        {
+            "fakeid": "MzA5MDc0MzA0OA==",
+            "nickname": "国际能源小数据"
+        },
+        {
+            "fakeid": "MjM5ODk4MzU2Mg==",
+            "nickname": "能源新媒"
+        },
+        {
+            "fakeid": "Mzg4MTcxNTQ3Mg==",
+            "nickname": "青岛科技发展研究"
+        },
+        {
+            "fakeid": "MzU4ODQyNTU3Nw==",
+            "nickname": "九樟能参"
+        },
+        {
+            "fakeid": "MzkzMDI4MDg3OQ==",
+            "nickname": "维度系列"
+        },
+        {
+            "fakeid": "MzA5MDYwOTE2Nw==",
+            "nickname": "国际能源研究中心"
+        },
+        {
+            "fakeid": "MzI2OTUyMzA0Nw==",
+            "nickname": "生态环境部"
+        },
+        {
+            "fakeid": "MzIwMTU0MTM4OA==",
+            "nickname": "国家能源局"
+        },
+        {
+            "fakeid": "Mzg2ODg1NTYyNw==",
+            "nickname": "落基山研究所"
+        },
+        {
+            "fakeid": "MjM5OTY4NjAwMQ==",
+            "nickname": "南方能源观察"
+        },
+        {
+            "fakeid": "MjM5MjcyNzU1OA==",
+            "nickname": "中国电力报"
+        },
+        {
+            "fakeid": "MjM5NTI4MTIyMg==",
+            "nickname": "中国能源报"
+        }
+    ]
+}
